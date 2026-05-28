@@ -60,3 +60,8 @@ python lstm_autoencoder.py
 - **LSTM Autoencoder** — encoder compresses sequence into hidden state, decoder reconstructs it
 - **Sliding windows** — 30-timestep overlapping windows fed to the model
 - **Unsupervised detection** — trained only on normal data, no anomaly labels needed during training
+
+
+git remote add origin https://github.com/margaretjohn14-alt/lstm-anomaly-detection.git
+git branch -M main
+git push -u origin main
